@@ -12,5 +12,20 @@
       "class:\\s*?[\"'`]([^\"'`]*).*?[\"'`]",
       "[\"'`]([^\"'`]*).*?[\"'`]"
     ]
-  ]
+  ],
+  "css.validate": false,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "html": "html"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore"
 }

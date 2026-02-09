@@ -1,5 +1,2 @@
-To-do step by step
-[] Hacer que se muestre alguna cosa al lanzar la app - problema de render??? --> identificar problema
-[] Verificar que funciona correctamente con los ficheros de prueba
-[] Entrenar modelo para que sea funcional
-[] ...
+To-do
+[] Fichero Readme

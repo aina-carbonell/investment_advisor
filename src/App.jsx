@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { questions } from './data/questions';
 import { portfolios } from './data/portfolios';
-import { calculatePortfolioRecommendation } from './utils/investmentLogic';
+import { calculatePortfolioRecommendation, generateInvestmentTips } from './utils/investmentLogic';
 import QuestionnaireStep from './components/QuestionnaireStep';
 import ResultsDisplay from './components/ResultsDisplay';
 import { TrendingUp, ArrowLeft, RotateCcw } from 'lucide-react';
